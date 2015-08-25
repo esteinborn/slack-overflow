@@ -61,8 +61,6 @@ def overflow():
 
 
 @app.route('/')
-def hello():
-    return redirect('https://github.com/karan/slack-overflow')
 
 
 if __name__ == '__main__':
